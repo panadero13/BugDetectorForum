@@ -1,5 +1,8 @@
 # Descripción de la aplicación
 
+_Si ocurriese algun error con el código pruebe a descargarlo en el servidor de Github:_
+https://github.com/panadero13/BugDetectorForum.git
+
 Esta *Aplicacion de Deteccion de Bugs* está diseñada para funcionar en modo servidor, como cualquier 
 Aplicación Web. Los usuarios pueden ver las *Instancias* o *Bugs* aun sin haberse registrado en la
 App, aún así no serán capaces de ver las *respuestas* a esas Instancias sin haberse registrado,
