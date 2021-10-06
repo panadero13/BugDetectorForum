@@ -27,5 +27,8 @@ De izquierda a derecha:
 Se deberá tener en cuenta que esta aplicación funciona con un sistema de base de datos *MySQL*, que actua con permisos *root* en una base de datos que deberá llamarse *BugDetectorForum*.
 
 Para instalar todas las dependencias necesarias para que esta aplicación funcione se deberá escribir en el terminal:
-*npm install && npm run dev*, *composer install*, *php artisan key:generate*, *php artisan migrate:fresh --seed* 
-y *php artisan serve*
+- *npm install && npm run dev*
+- *composer install*
+- *php artisan key:generate*
+- *php artisan migrate:fresh --seed* 
+- *php artisan serve*
